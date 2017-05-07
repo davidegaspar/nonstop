@@ -1,2 +1,6 @@
-# nonstop
-nonstop radio website
+# FANTAS FM
+
+```
+jekyll build
+jekyll serve
+```

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<iframe src="https://docs.google.com/presentation/d/1CiADBm-rvKKF7LrYhyj6xglt0GynozlP1PaiFMiJoMM/embed?start=true&loop=true&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>
