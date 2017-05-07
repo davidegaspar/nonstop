@@ -5,12 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: NONSTOP MÚSICA!
+title: MÚSIC FM
 email: geral@fantasfm.com
-description: > # A MÚSICA NO RITMO CERTO
+description: > # A MÚSICA BOA PASSA AQUI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://nonstop.fantasfm.com/ # the base hostname & protocol for your site
-twitter_username: https://twitter.com/FantasFm
+twitter_username: 
 # github_username: jekyll
 
 #Build settings
