@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 title: MÚSIC FM
-email: geral@fantasfm.com
+email:
 description: > # A MÚSICA BOA PASSA AQUI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://nonstop.fantasfm.com/ # the base hostname & protocol for your site
-twitter_username: 
+twitter_username:
 # github_username: jekyll
 
 #Build settings
