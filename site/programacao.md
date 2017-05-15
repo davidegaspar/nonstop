@@ -5,11 +5,11 @@ permalink: /programacao/
 ---
 PROGRAMAÇÃO
 
-                       SEGUNDA - FEIRA
+                           SEGUNDA - FEIRA
 
-[2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
-[A TARDE](/imagens/atarde.png)
+![A TARDE](/imagens/atarde.png)
 
 
 
