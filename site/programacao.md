@@ -5,7 +5,7 @@ permalink: /programacao/
 ---
 PROGRAMAÇÃO
 
-                           SEGUNDA - FEIRA
+                                SEGUNDA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
