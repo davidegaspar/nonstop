@@ -5,7 +5,7 @@ permalink: /programacao/
 ---
 PROGRAMAÇÃO
 
-                                SEGUNDA - FEIRA
+                                  SEGUNDA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
@@ -14,6 +14,17 @@ PROGRAMAÇÃO
 ![TOP TEN](/imagens/topten.png)
 
 ![A NOITE](/imagens/aanoite.png)
+
+                                TERÇA - FEIRA
+
+![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+
+![A TARDE](/imagens/atarde.png)
+
+![TOP TEN](/imagens/topten.png)
+
+![A NOITE](/imagens/aanoite.png)
+
 
 
 
