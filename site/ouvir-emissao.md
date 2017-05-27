@@ -1,6 +1,6 @@
 ---
 layout: page
 title: OUVIR EMISSAO
-permalink:/ouvir-emissao/
+permalink: /ouvir-emissao/
 ---
 <audio controls="">
