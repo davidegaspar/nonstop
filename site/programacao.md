@@ -26,7 +26,7 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-                              QUARTA - FEIRA
+                               QUARTA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
@@ -37,7 +37,7 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-                          QUINTA - FEIRA
+                           QUINTA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
@@ -48,7 +48,7 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-                          SEXTA - FEIRA
+                           SEXTA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
 
@@ -59,6 +59,8 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-                          SÁBADO
+                           SÁBADO
 
 ![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
+
+![MEIA HORA SEM PAUSAS](/imagens/meiahorasempausas.png)
