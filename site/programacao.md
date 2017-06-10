@@ -81,3 +81,7 @@ PROGRAMAÇÃO
 ![MÚSICAS NOVAS](/imagens/musicasnovas.png)
 
 ![TOP TEN DA SEMANA](/imagens/toptendasemana.png)
+
+![Sara Correia](/imagens/saracorreia3.png)
+
+![DANCE MÚSIC](/imagens/dance music.png)
