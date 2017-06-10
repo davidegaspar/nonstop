@@ -64,3 +64,5 @@ PROGRAMAÇÃO
 ![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
 
 ![MEIA HORA SEM PAUSAS](/imagens/meiahorasempausas.png)
+
+![Sara Correia](/imagens/saracorreia2.png)
