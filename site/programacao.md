@@ -71,4 +71,4 @@ PROGRAMAÇÃO
 
 ![Davide Gaspar](/imagens/davidegaspar1.png)
 
-![DANCE MÚSIC](/imagnes/dance music.png)
+![DANCE MÚSIC](/imagens/dance music.png)
