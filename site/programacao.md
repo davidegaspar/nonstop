@@ -68,3 +68,5 @@ PROGRAMAÇÃO
 ![Sara Correia](/imagens/saracorreia2.png)
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas1.png)
+
+![Davide Gaspar](/imagens/davidegaspar1.png)
