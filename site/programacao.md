@@ -79,3 +79,5 @@ PROGRAMAÇÃO
 ![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
 
 ![MÚSICAS NOVAS](/imagens/musicasnovas.png)
+
+![TOP TEN DA SEMANA](/imagens/toptendasemana.png)
