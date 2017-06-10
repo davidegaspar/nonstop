@@ -72,3 +72,10 @@ PROGRAMAÇÃO
 ![Davide Gaspar](/imagens/davidegaspar1.png)
 
 ![DANCE MÚSIC](/imagens/dance music.png)
+
+
+                            DOMINGO
+
+![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
+
+![MÚSICAS NOVAS](/imagens/musicasnovas.png)
