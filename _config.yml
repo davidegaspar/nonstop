@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: A MÚSICA BOA PASSA AQUI
+title: /imagens/Bestrock_logo.png
 email:
-description: > #A MÚSICA BOA PASSA AQUI
+description: > #A MELHOR MÚSICA ESTA AQUI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://nonstop.fantasfm.com/ # the base hostname & protocol for your site
 twitter_username:
