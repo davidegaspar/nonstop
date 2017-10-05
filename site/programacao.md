@@ -16,9 +16,18 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
+                             TERÇA - FEIRA
+
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
+
+![A TARDE](/imagens/atarde.png)
+
+![TOP TEN](/imagens/topten.png)
+
+![A NOITE](/imagens/aanoite.png)
 
 
-                               TERÇA - FEIRA
+
 
 
 
