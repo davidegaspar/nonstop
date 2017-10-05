@@ -7,9 +7,9 @@ PROGRAMAÇÃO
 
                                   SEGUNDA - FEIRA
 
-![MÚSIC NONSTOP](/imagens/musicnonstop111111.png)
+![MÚSIC NONSTOP](/imagens/músicnonstop111.png)
 
-![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 ![A TARDE](/imagens/atarde.png)
 
