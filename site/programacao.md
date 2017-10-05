@@ -7,8 +7,6 @@ PROGRAMAÇÃO
 
                                   SEGUNDA - FEIRA
 
-![MÚSIC NONSTOP](/imagens/músicnonstop111.png)
-
 ![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 ![A TARDE](/imagens/atarde.png)
@@ -18,11 +16,9 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
+
+
                                TERÇA - FEIRA
-
-![MÚSIC NONSTOP](/imagens/músicnonstop111.png)
-
-![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 
 
