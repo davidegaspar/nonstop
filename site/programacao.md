@@ -27,13 +27,6 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-
-
-
-
-
-
-
                                QUARTA - FEIRA
 
 ![2H SEM PAUSAS](/imagens/2h sem pausas.png)
