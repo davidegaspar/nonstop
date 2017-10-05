@@ -20,11 +20,12 @@ PROGRAMAÇÃO
 
                                TERÇA - FEIRA
 
-![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![MÚSIC NONSTOP](/imagens/músicnonstop111.png)
 
-![A TARDE](/imagens/atarde.png)
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
-![TOP TEN](/imagens/topten.png)
+
+
 
 
 
