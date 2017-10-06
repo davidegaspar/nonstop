@@ -61,27 +61,10 @@ PROGRAMAÇÃO
 
                           SÁBADO
 
-![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
+![Daniel Gaspar](/imagens/emissao1111111.png)
 
-![MEIA HORA SEM PAUSAS](/imagens/meiahorasempausas.png)
-
-![Sara Correia](/imagens/saracorreia2.png)
-
-![2H SEM PAUSAS](/imagens/2h sem pausas1.png)
-
-![Davide Gaspar](/imagens/davidegaspar1.png)
-
-![DANCE MÚSIC](/imagens/dance music.png)
 
 
                             DOMINGO
 
-![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
-
-![MÚSICAS NOVAS](/imagens/musicasnovas.png)
-
-![TOP TEN DA SEMANA](/imagens/toptendasemana.png)
-
-![Sara Correia](/imagens/saracorreia3.png)
-
-![DANCE MÚSIC](/imagens/dance music.png)
+!
