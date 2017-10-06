@@ -29,7 +29,7 @@ PROGRAMAÇÃO
 
                                QUARTA - FEIRA
 
-![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 ![A TARDE](/imagens/atarde.png)
 
@@ -40,7 +40,7 @@ PROGRAMAÇÃO
 
                            QUINTA - FEIRA
 
-![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 ![A TARDE](/imagens/atarde.png)
 
@@ -51,7 +51,7 @@ PROGRAMAÇÃO
 
                            SEXTA - FEIRA
 
-![2H SEM PAUSAS](/imagens/2h sem pausas.png)
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
 ![A TARDE](/imagens/atarde.png)
 
@@ -59,8 +59,7 @@ PROGRAMAÇÃO
 
 ![A NOITE](/imagens/aanoite.png)
 
-
-                           SÁBADO
+                          SÁBADO
 
 ![MÚSICA SEM PARAR](/imagens/musicasemparar.png)
 
