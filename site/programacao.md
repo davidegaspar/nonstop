@@ -63,6 +63,8 @@ PROGRAMAÇÃO
 
 ![Daniel Gaspar](/imagens/emissao1111111.png)
 
+![Sara Correia](/imagens/saracorreia2.png)
+
 
 
                             DOMINGO
