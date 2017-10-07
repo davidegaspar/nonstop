@@ -21,3 +21,12 @@ PROGRAMAÇÃO
 ![A TARDE](/imagens/atarde.png)
 
 ![A NOITE](/imagens/aanoite.png)
+
+
+![QUARTA](/imagens/quarta.png)
+
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
+
+![A TARDE](/imagens/atarde.png)
+
+![A NOITE](/imagens/aanoite.png)
