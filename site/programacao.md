@@ -41,7 +41,7 @@ PROGRAMAÇÃO
 ![A NOITE](/imagens/aanoite.png)
 
 
-![SEXTA](/imagens/qinta.png)
+![SEXTA](/imagens/sexta.png)
 
 ![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
 
