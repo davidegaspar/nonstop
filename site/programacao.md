@@ -30,3 +30,21 @@ PROGRAMAÇÃO
 ![A TARDE](/imagens/atarde.png)
 
 ![A NOITE](/imagens/aanoite.png)
+
+
+![QUINTA](/imagens/qinta.png)
+
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
+
+![A TARDE](/imagens/atarde.png)
+
+![A NOITE](/imagens/aanoite.png)
+
+
+![SEXTA](/imagens/qinta.png)
+
+![2H DE MÚSICA SEGUIDA](/imagens/2hdemusicaseguida.png)
+
+![A TARDE](/imagens/atarde.png)
+
+![A NOITE](/imagens/aanoite.png)
