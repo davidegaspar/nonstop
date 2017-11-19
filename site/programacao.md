@@ -24,7 +24,7 @@ PROGRAMAÇÃO
 
 ![A NOITE](/imagens/aanoite.png)
 
-![TOP TEN](/imagens/topten.pngtopten.png)
+![TOP TEN](/imagens/topten.png)
 
 
 ![QUARTA](/imagens/quarta.png)
