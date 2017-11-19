@@ -22,7 +22,7 @@ PROGRAMAÇÃO
 
 ![A TARDE](/imagens/atarde.png)
 
-[A NOITE](/imagens/aanoite.png)
+![A NOITE](/imagens/aanoite.png)
 
 ![TOP TEN](/imagens/topten.pngtopten.png)
 
@@ -33,7 +33,7 @@ PROGRAMAÇÃO
 
 ![A TARDE](/imagens/atarde.png)
 
-[A NOITE](/imagens/aanoite.png)
+![A NOITE](/imagens/aanoite.png)
 
 ![TOP TEN](/imagens/topten.png)
 
