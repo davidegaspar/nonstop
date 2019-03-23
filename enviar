@@ -11,4 +11,5 @@ git commit -m "$(whoami) enviar"
 git push
 set -e
 
-aws s3 cp --recursive target s3://nonstop.fantasfm.com/
+# upload
+aws s3 sync --delete target s3://nonstop.fantasfm.com/
