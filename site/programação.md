@@ -25,15 +25,15 @@ permalink: /programação/
   <img src="/imagens/m .png" alt="">
   </div>
   <div class="terca">
-    <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-    <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
-    <img src="/imagens/random .png" alt="RANDOM">
-    <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
-    <img src="/imagens/out night .png" alt="OUT NIGHT">
+    <img src="/imagens/"mhhhhhgfggg.png  alt="MÚSIC NONSTOP">
+    <img src="/imagens/.png" alt="">
+    <img src="/imagens/ .png" alt="">
+    <img src="/imagens/.png" alt="">
+    <img src="/imagens/.png" alt="">
   </div>
   <div class="quarta">
-    <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-    <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
+    <img src="/imagens/"mhhhhhgfggg.png alt="MÚSIC NONSTOP">
+    <img src="/imagens/.png" alt="">
     <img src="/imagens/random .png" alt="RANDOM">
     <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
     <img src="/imagens/out night .png" alt="OUT NIGHT">
