@@ -11,4 +11,4 @@ permalink: /programação/
 
 ![A NOITE](/imagens/anoite.png)
 
-![MÚSIC NONSTOP](/images/rgththh.png)
+![MÚSIC NONSTOP](/imagens/rgththh.png)
