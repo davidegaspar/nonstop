@@ -61,6 +61,6 @@ permalink: /programação/
 
 ![MÚSICA SEM PARAR](/imagens/ghghhjhjk.png)
 
-[DANCE MÚSIC](/imagens/ghgfhgjjghj.png)
+![DANCE MÚSIC](/imagens/ghgfhgjjghj.png)
 
 ![MÚSIC NONSTOP](/imagens/rgththh.png)
