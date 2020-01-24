@@ -3,7 +3,8 @@ layout: page
 title: PROGRAMAÇÃO
 permalink: /programação/
 ---
-table class="days" style="width:100%">
+<!-- nao mexer -->
+<table class="days" style="width:100%">
   <tr>
     <td class="segunda" onclick="selectDay('segunda')">SEGUNDA</td>
     <td class="terca" onclick="selectDay('terca')">TERCA</td>
@@ -14,12 +15,11 @@ table class="days" style="width:100%">
     <td class="domingo" onclick="selectDay('domingo')">DOMINGO</td>
   </tr>
 </table>
-
 <!-- nao mexer -->
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/>
-  <img src="/imagens/" alt="M">
+  <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
   <img src="/imagens/random .png" alt="RANDOM">
   <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
   <img src="/imagens/musicboxcomsaracorreia .png" alt="MÚSIC BOX">
@@ -73,6 +73,7 @@ table class="days" style="width:100%">
     <img src="/imagens/danielgaspar2.png" alt="Daniel Gaspar">
   </div>
 </div>
+
 <!-- nao mexer -->
 <script>
   var allDays = document.querySelectorAll('.days tr td');
