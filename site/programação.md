@@ -18,11 +18,11 @@ permalink: /programação/
 <!-- nao mexer -->
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
-  <img src="/imagens/random .png" alt="RANDOM">
-  <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
-  <img src="/imagens/musicboxcomsaracorreia .png" alt="MÚSIC BOX">
+  <img src="/imagens/" mhhhhhgfggg.png alt="MÚSIC NONSTOP">
+  <img src="/imagens/" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/" alt="">
+  <img src="/imagens/m .png" alt="">
   </div>
   <div class="terca">
     <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
