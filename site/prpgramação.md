@@ -53,7 +53,7 @@ permalink: /programação/
 
 ![MÚSIC NONSTOP](/imagens/rgththh.png)
 
-    ![SÁBADO](/imagens/sabado.png)
+![SÁBADO](/imagens/sabado.png)
 
 ![MÚSIC NONSTOP](/imagens/ggfffff.png)
 
