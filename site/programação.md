@@ -18,8 +18,8 @@ table class="days" style="width:100%">
 <!-- nao mexer -->
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
+  <img src="/imagens/>
+  <img src="/imagens/" alt="M">
   <img src="/imagens/random .png" alt="RANDOM">
   <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
   <img src="/imagens/musicboxcomsaracorreia .png" alt="MÚSIC BOX">
