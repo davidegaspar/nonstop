@@ -23,7 +23,7 @@ permalink: /programação/
 
 ![MÚSIC NONSTOP](/imagens/rgththh.png)
 
-[QUARTA](/imagens/quarta.png)
+![QUARTA](/imagens/quarta.png)
 
 ![MÚSIC NONSTOP](/imagens/ggfffff.png)
 
