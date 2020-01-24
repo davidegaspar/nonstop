@@ -60,3 +60,7 @@ permalink: /programação/
 ![AGENDA DA SEMANA](/imagens/fgfggfhgh.png)
 
 ![MÚSICA SEM PARAR](/imagens/ghghhjhjk.png)
+
+[DANCE MÚSIC](/imagens/ghgfhgjjghj.png)
+
+![MÚSIC NONSTOP](/imagens/rgththh.png)
