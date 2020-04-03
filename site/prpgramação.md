@@ -3,76 +3,23 @@ layout: page
 title: PROGRAMAÇÃO
 permalink: /programação/
 ---
-![SEGUNDA](/imagens/segunda.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![A TARDE](/imagens/atarte.png)
-
-![A NOITE](/imagens/anoite.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![TERÇA](/imagens/terça.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![A TARDE](/imagens/atarte.png)
-
-![A NOITE](/imagens/anoite.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![QUARTA](/imagens/quarta.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![A TARDE](/imagens/atarte.png)
-
-![A NOITE](/imagens/anoite.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![QUINTA](/imagens/qinta.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![A TARDE](/imagens/atarte.png)
-
-![A NOITE](/imagens/anoite.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![SEXTA](/imagens/sexta.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![A TARDE](/imagens/atarte.png)
-
-![A NOITE](/imagens/anoite.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![SÁBADO](/imagens/sabado.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![AGENDA DA SEMANA](/imagens/fgfggfhgh.png)
-
-![MÚSICA SEM PARAR](/imagens/ghghhjhjk.png)
-
-![DANCE MÚSIC](/imagens/ghgfhgjjghj.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png)
-
-![DOMINGO](/imagens/domingo.png)
-
-![MÚSIC NONSTOP](/imagens/ggfffff.png)
-
-![AGENDA DA SEMANA](/imagens/fgfggfhgh.png)
-
-![MÚSICA SEM PARAR](/imagens/ghghhjhjk.png)
-
-![DANCE MÚSIC](/imagens/ghgfhgjjghj.png)
-
-![MÚSIC NONSTOP](/imagens/rgththh.png) 
+<table class="days" style="width:100%">
+  <tr>
+    <td class="segunda" onclick="selectDay('segunda')">SEGUNDA</td>
+    <td class="terca" onclick="selectDay('terca')">TERCA</td>
+    <td class="quarta" onclick="selectDay('quarta')">QUARTA</td>
+    <td class="quinta" onclick="selectDay('quinta')">QUINTA</td>
+    <td class="sexta" onclick="selectDay('sexta')">SEXTA</td>
+    <td class="sabado" onclick="selectDay('sabado')">SABADO</td>
+    <td class="domingo" onclick="selectDay('domingo')">DOMINGO</td>
+  </tr>
+</table>
+<!-- nao mexer -->
+<div class="prog">
+  <div class="segunda">
+  <img src="/imagens/" alt=""
+  <img src="/imagens/meiahora" alt="">
+  <img src="/imagens/" alt="">
+  <img src="/imagens/" alt="">
+  <img src="/imagens/" alt="">
+  </div>
