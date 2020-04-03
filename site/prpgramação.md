@@ -29,45 +29,32 @@ permalink: /programação/
   <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">  
   </div>
   <div class="quarta">
-    <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-    <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
-    <img src="/imagens/random .png" alt="RANDOM">
-    <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
-    <img src="/imagens/out night .png" alt="OUT NIGHT">
+  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/"atarte.png" alt="A TARDE">
+  <img src="/imagens/"anoite.png" alt="A NOITE">
+  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="quinta">
-    <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-    <img src="/imagens/meiahorasempausas.png" alt="MEIA HORA SEM PAUSAS">
-    <img src="/imagens/random .png" alt="RANDOM">
-    <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
-    <img src="/imagens/out night .png" alt="OUT NIGHT">
+  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/"atarte.png" alt="A TARDE">
+  <img src="/imagens/"anoite.png" alt="A NOITE">
+  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="sexta">
-    <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-    <img src="/imagens/davidegaspar11 .png" LUCH TIME>
-    <img src="/imagens/random .png" alt="RANDOM">
-    <img src="/imagens/fantassummer.png" alt="FANTAS SUMMER">
-    <img src="/imagens/out night .png" alt="OUT NIGHT">  
+  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/"atarte.png" alt="A TARDE">
+  <img src="/imagens/"anoite.png" alt="A NOITE">
+  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="sabado">
-    <img src="/imagens/feelthemusic .png" alt="FEEL THE MÚSIC">
-    <img src="/imagens/musicnonstop1 .png" alt="MUSIC NONSTOP">
-    <img src="/imagens/musicboxcomsaracorreia2 .png" alt="Sara Correia">
-    <img src="/imagens/2hsempausas2.png" alt="2H SEM PAUSAS">
-    <img src="/imagens/meiahorasempausas2.png" alt="MEIA HORA SEM PAUSAS">
-    <img src="/imagens/web9.png" alt="WEB 9">
-    <img src="/imagens/nunoreis.png" alt="Nuno Reis">
-    <img src="/imagens/danielgaspar.png" alt="Daniel Gaspar">
-
+  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/"fgfggfhgh.png" alt="AGENDA DA SEMANA">
+  <img src="/imagens/"fgfggfhgh.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/"ghgfhgjjghj.png" alt="DANCE MÚSIC">
+  <img src="/imagens/"rgththh.png"alt="MÚSIC NONSTOP"
   </div>
   <div class="domingo">
-    <img src="/imagens/housepartyradioshow.png" alt="HOUSEPARTYRADIOSHOW">
-    <img src="/imagens/musicnonstop1 .png" alt="MUSIC NONSTOP">
-    <img src="/imagens/saracorreia 33 .png" alt="Sara Correia">
-    <img src="/imagens/2hsempausas2.png" alt="2H SEM PAUSAS">
-    <img src="/imagens/meiahorasempausas2.png" alt="MEIA HORA SEM PAUSAS">
-    <img src="/imagens/web9.png" alt="WEB 9">
-    <img src="/imagens/danielgaspar2.png" alt="Daniel Gaspar">
+
   </div>
 </div>
 
