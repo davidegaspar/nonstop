@@ -17,48 +17,48 @@ permalink: /programação/
 <!-- nao mexer -->
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/"music-nonstop.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"atarte.png" alt="A TARDE">
-  <img src="/imagens/"anoite.png" alt="A NOITE">
+  <img src="/imagens/music-nonstop.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/atarte.png" alt="A TARDE">
+  <img src="/imagens/anoite.png" alt="A NOITE">
   <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="terca">
-  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"atarte.png" alt="A TARDE">
-  <img src="/imagens/"anoite.png" alt="A NOITE">
-  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">  
+  <img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/atarte.png" alt="A TARDE">
+  <img src="/imagens/anoite.png" alt="A NOITE">
+  <img src="/imagens/rgththh.png" alt="MÚSIC NONSTOP">  
   </div>
   <div class="quarta">
-  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"atarte.png" alt="A TARDE">
-  <img src="/imagens/"anoite.png" alt="A NOITE">
-  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/atarte.png" alt="A TARDE">
+  <img src="/imagens/anoite.png" alt="A NOITE">
+  <img src="/imagens/gththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="quinta">
-  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"atarte.png" alt="A TARDE">
-  <img src="/imagens/"anoite.png" alt="A NOITE">
-  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/atarte.png" alt="A TARDE">
+  <img src="/imagens/anoite.png" alt="A NOITE">
+  <img src="/imagens/rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="sexta">
-  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"atarte.png" alt="A TARDE">
-  <img src="/imagens/"anoite.png" alt="A NOITE">
-  <img src="/imagens/"rgththh.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/atarte.png" alt="A TARDE">
+  <img src="/imagens/anoite.png" alt="A NOITE">
+  <img src="/imagens/rgththh.png" alt="MÚSIC NONSTOP">
   </div>
   <div class="sabado">
-  <img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"fgfggfhgh.png" alt="AGENDA DA SEMANA">
-  <img src="/imagens/"fgfggfhgh.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/"ghgfhgjjghj.png" alt="DANCE MÚSIC">
-  <img src="/imagens/"rgththh.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/fgfggfhgh.png" alt="AGENDA DA SEMANA">
+  <img src="/imagens/fgfggfhgh.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/ghgfhgjjghj.png" alt="DANCE MÚSIC">
+  <img src="/imagens/rgththh.png"alt="MÚSIC NONSTOP"
   </div>
   <div class="domingo">
-  img src="/imagens/"ggfffff.png"alt="MÚSIC NONSTOP"
-  <img src="/imagens/"fgfggfhgh.png" alt="AGENDA DA SEMANA">
-  <img src="/imagens/"fgfggfhgh.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/"ghgfhgjjghj.png" alt="DANCE MÚSIC">
-  <img src="/imagens/"rgththh.png"alt="MÚSIC NONSTOP"
+  img src="/imagens/ggfffff.png"alt="MÚSIC NONSTOP"
+  <img src="/imagens/fgfggfhgh.png" alt="AGENDA DA SEMANA">
+  <img src="/imagens/fgfggfhgh.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/ghgfhgjjghj.png" alt="DANCE MÚSIC">
+  <img src="/imagens/rgththh.png"alt="MÚSIC NONSTOP"
   </div>
 </div>
 <!-- nao mexer -->
