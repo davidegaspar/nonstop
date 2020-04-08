@@ -20,7 +20,7 @@ permalink: /programação/
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarte.png" alt="A TARDE">
   <img src="/imagens/anoite.png" alt="A NOITE">
-  <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
   </div>
   <div class="terca">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
