@@ -12,4 +12,4 @@ git push
 set -e
 
 # upload
-aws s3 sync --delete target s3://nonstop.fantasfm.com/
+aws s3 sync --delete target s3://963345548549-nonstop/
