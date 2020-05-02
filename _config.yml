@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: MIX FM - AO SOM DA TUA BATIDA
+title: HITS FM - OS MELHORES HITS ESTAO AQUI
 email:
 description: > # SOMOS MIX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://nonstop.fantasfm.com/ # the base hostname & protocol for your site
+url: http://hitsfm.fantasfm.com/ # the base hostname & protocol for your site
 twitter_username:
 # github_username: jekyll
 
