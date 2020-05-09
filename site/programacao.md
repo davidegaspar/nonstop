@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PROGRAMAÇÃO
-permalink: /programação/
+permalink: /programacao/
 ---
 <table class="days" style="width:100%">
   <tr>

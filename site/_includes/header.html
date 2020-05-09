@@ -13,17 +13,17 @@
       <!-- logo + onair -->
 
       <!-- on air -->
-      <link href="http://centova-on-air.s3-website-us-east-1.amazonaws.com/static/css/main.bc6e5342.css" rel="stylesheet">
+      <link href="https://centova-on-air.fantasfm.com/static/css/main.bc6e5342.css" rel="stylesheet">
       <script>
         window.centova ={
-          url:'http://cast1.redeaudio.com:2199/rpc/hitsfm/streaminfo.get',
+          url:'https://cast1.redeaudio.com:2199/rpc/hitsfm/streaminfo.get',
           refresh_in_seconds: 10,
           onair_true_img: '/imagens/onair.png',
           onair_false_img: '/imagens/offair.png',
           img_folder: '/imagens'
         }
       </script>
-      <script type="text/javascript" src="http://centova-on-air.s3-website-us-east-1.amazonaws.com/static/js/main.a46e90bd.js"></script>
+      <script type="text/javascript" src="https://centova-on-air.fantasfm.com/static/js/main.a46e90bd.js"></script>
     <!-- on air -->
 
     <nav class="site-nav">
@@ -38,7 +38,7 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}index.html">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
