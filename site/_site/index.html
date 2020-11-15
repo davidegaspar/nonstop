@@ -101,7 +101,17 @@ A TOCAR: <marquee behavior="scroll" scrollamount="5" direction="left" style="pos
           <span id="cc_strinfo_song_fantasfm" class="cc_streaminfo">Charlie Puth - Attention</span>
         </marquee>
 
-<ul class="post-list">
+        <ul class="post-list">
+            {% for post in site.posts %}
+              <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+              </li>
+            {% endfor %}
+          </ul>
 
 
 
