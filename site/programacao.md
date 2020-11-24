@@ -18,18 +18,21 @@ permalink: /programacao/
 <div class="prog">
   <div class="segunda">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/atarte.png" alt="A TARDE">
   <img src="/imagens/anoite.png" alt="A NOITE">
   <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
   </div>
   <div class="terca">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/atarte.png" alt="A TARDE">
   <img src="/imagens/anoite.png" alt="A NOITE">
   <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">  
   </div>
   <div class="quarta">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/atarte.png" alt="A TARDE">
   <img src="/imagens/anoite.png" alt="A NOITE">
   <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
