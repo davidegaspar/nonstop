@@ -53,16 +53,12 @@ permalink: /programacao/
   </div>
   <div class="sabado">
   <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/agenda-da-semana.png" alt="AGENDA DA SEMANA">
   <img src="/imagens/musica-sem-parar.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/music.png" alt="DANCE MÚSIC">
   <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
   </div>
   <div class="domingo">
-  <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/agenda-da-semana.png" alt="AGENDA DA SEMANA">
+  <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
   <img src="/imagens/musica-sem-parar.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/music.png" alt="DANCE MÚSIC">
   <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
   </div>
 </div>
