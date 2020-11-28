@@ -53,12 +53,12 @@ permalink: /programacao/
   </div>
   <div class="sabado">
   <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/musica-sem-parar.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/musica-sem-parar2.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
   </div>
   <div class="domingo">
   <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/musica-sem-parar.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/musica-sem-parar2.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
   </div>
 </div>
