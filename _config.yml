@@ -9,7 +9,7 @@ title: ROCK FM
 email:
 description: > # SOMOS MIX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://rockfm.fantasfm.com/ # the base hostname & protocol for your site
+url: https://hitsfm.fantasfm.com/ # the base hostname & protocol for your site
 twitter_username:
 # github_username: jekyll
 
