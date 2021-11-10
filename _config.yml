@@ -5,15 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: JOVEM FM 
+title: ROCK FM
 email:
 description: > # SOMOS MIX
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://hitsfm.fantasfm.com/ # the base hostname & protocol for your site
+url: https://rockfm.fantasfm.com/ # the base hostname & protocol for your site
 twitter_username:
 # github_username: jekyll
 
 #Build settings
 markdown: kramdown
-source:      site
+source: site
 destination: target
