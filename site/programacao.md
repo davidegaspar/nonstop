@@ -21,6 +21,22 @@ permalink: /programacao/
 
 <!-- nao mexer -->
 
+<thead>
+                                                    <tr class="guide-header">
+                                                        <th class="guide-header-program">
+                                                            Programa
+                                                            <span class="guide-header-program-border"></span>
+                                                        </th>
+                                                        <th class="guide-header-hour">
+                                                            Hora
+                                                        </th>
+                                                        <th class="guide-header-show">
+                                                            Rubrica
+                                                            <span class="guide-header-show-border"></span>
+                                                        </th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
 
 
 
