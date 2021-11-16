@@ -13,7 +13,7 @@ permalink: /programacao/
     <td class="sabado" onclick="selectDay('sabado')">SABADO</td>
     <td class="domingo" onclick="selectDay('domingo')">DOMINGO</td>
   </tr>
-</table>
+</table> 
 
 <div class="prog">
   <div class="segunda">
