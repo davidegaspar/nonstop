@@ -22,21 +22,32 @@ permalink: /programacao/
 <!-- nao mexer -->
 
 <thead>
-                                                    <tr class="guide-header">
-                                                        <th class="guide-header-program">
-                                                            Programa
-                                                            <span class="guide-header-program-border"></span>
-                                                        </th>
-                                                        <th class="guide-header-hour">
-                                                            Hora
-                                                        </th>
-                                                        <th class="guide-header-show">
-                                                            Rubrica
-                                                            <span class="guide-header-show-border"></span>
-                                                        </th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
+<tr class="guide-header">
+<th class="guide-header-program">
+  Programa
+<span class="guide-header-program-border"></span>
+/th>
+  <th class="guide-header-hour">
+  Hora
+  </th>
+<th class="guide-header-show">
+  Rubrica
+  <span class="guide-header-show-border"></span>
+  </th>
+  </tr>
+  </thead>
+  <tbody>
+
+<td rowspan="1" data-id="11" class="guide-content-program">
+<strong>SUB - GRAVE</strong>
+<span class="guide-expand-shape"></span>
+<a href="#" class="guide-expand"
+data-id="11">+</a>
+   <div class="guide-expand-target">1 hora de Frequências trepidantes na pista de dança da MEO Sudoeste</div>
+  </td>
+  <td class="guide-content-hour first-hour">00:00</td>
+ <td class="guide-content-show"></td>
+</tr>
 
 
 
