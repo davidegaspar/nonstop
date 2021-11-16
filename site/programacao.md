@@ -13,7 +13,7 @@ permalink: /programacao/
     <td class="sabado" onclick="selectDay('sabado')">SABADO</td>
     <td class="domingo" onclick="selectDay('domingo')">DOMINGO</td>
   </tr>
-</table> 
+</table>
 
 <div class="prog">
   <div class="segunda">
@@ -21,21 +21,21 @@ permalink: /programacao/
   <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
   <img src="/imagens/a-noite.png" alt="A NOITE">
-  <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
+
   </div>
   <div class="terca">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
   <img src="/imagens/a-noite.png" alt="A NOITE">
-  <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">  
+
   </div>
   <div class="quarta">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
   <img src="/imagens/a-noite.png" alt="A NOITE">
-  <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
+  
   </div>
   <div class="quinta">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
