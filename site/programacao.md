@@ -12,7 +12,7 @@ permalink: /programacao/
 <option value="guide-article-5" >5ª</option>
 <option value="guide-article-6" >6ª</option>
 <option value="guide-article-sab" >Sábado</option>
-<option value="guide-article-dom" >Domingo</option>
+<option value="guide-article-dom" >Domingo</option> 
 </select>
 
 <!-- nao mexer -->
