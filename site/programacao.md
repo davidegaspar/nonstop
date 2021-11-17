@@ -20,19 +20,19 @@ permalink: /programacao/
   <div class="segunda">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
+
 
   </div>
   <div class="terca">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
+
 
   </div>
   <div class="quarta">
   <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
   <img src="/imagens/a-tarte.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
+
 
   </div>
   <div class="quinta">
