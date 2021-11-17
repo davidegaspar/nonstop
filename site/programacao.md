@@ -3,6 +3,7 @@ layout: page
 title: PROGRAMAÇÃO
 permalink: /programacao/
 ---
+
 <table class="days" style="width:100%">
   <tr>
     <td class="segunda" onclick="selectDay('segunda')">SEGUNDA</td>
