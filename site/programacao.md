@@ -25,8 +25,10 @@ permalink: /programacao/
 
   </div>
   <div class="terca">
-  <img src="/imagens/.png" alt="">
-  <img src="/imagens/.png" alt="">
+  <img src="/imagens/music-nonstop1.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/atarde.png" alt="A TARDE">
+  <img src="/imagens/mixradioshow.png" alt="MIX RADIO SHOW">
+  <img src="/imagens/musicnostop11.png" alt="MÚSIC NONSTOP">
 
 
   </div>
