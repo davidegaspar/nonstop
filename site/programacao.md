@@ -18,45 +18,45 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/a-tarte1.png" alt="A TARDE">
-  <img src="/imagens/dancemusic.png" alt="DANCE MÚSIC"> 
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="DANCE MÚSIC">
 
   </div>
   <div class="terca">
-  <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/a-tarte1.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="A TARDE">
 
 
   </div>
   <div class="quarta">
-  <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/a-tarte1.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
 
 
 
   </div>
   <div class="quinta">
-  <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
   <img src="/imagens/a-tarte1.png" alt="A TARDE">
 
   </div>
   <div class="sexta">
-  <img src="/imagens/music-nonstop.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/musica-sem-parar1.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/a-tarte.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
-  <img src="/imagens/musicnonstop1.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="A NOITE">
+
   </div>
   <div class="sabado">
-  <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/musica-sem-parar2.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
   </div>
   <div class="domingo">
-  <img src="/imagens/musicnonstop2.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/musica-sem-parar2.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/musicnonstop.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="MÚSICA SEM PARAR">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
   </div>
 </div>
 
