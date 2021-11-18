@@ -30,33 +30,33 @@ permalink: /programacao/
 
   </div>
   <div class="quarta">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="A TARDE">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
 
 
 
   </div>
   <div class="quinta">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/a-tarte1.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
 
   </div>
   <div class="sexta">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="A TARDE">
-  <img src="/imagens/.png" alt="A NOITE">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
 
   </div>
   <div class="sabado">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
   </div>
   <div class="domingo">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="MÚSICA SEM PARAR">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
   </div>
 </div>
 
