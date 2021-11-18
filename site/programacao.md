@@ -18,14 +18,14 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="A TARDE">
-  <img src="/imagens/.png" alt="DANCE MÚSIC">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
 
   </div>
   <div class="terca">
-  <img src="/imagens/.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/.png" alt="A TARDE">
+  <img src="/imagens/.png" alt="">
+  <img src="/imagens/.png" alt="">
 
 
   </div>
