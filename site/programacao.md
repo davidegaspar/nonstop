@@ -18,8 +18,8 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/.png" alt="">
-  <img src="/imagens/.png" alt="">
+  <img src="/imagens/musicnonstop.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/musicnonstop.png" alt="A TARDE">
   <img src="/imagens/.png" alt="">
 
   </div>
