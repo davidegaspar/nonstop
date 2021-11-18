@@ -35,7 +35,7 @@ permalink: /programacao/
   <div class="quarta">
 <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde.png" alt="A TARDE">
-<img src="/imagens/musicnonstop2.png" alt="MÚSIC NONSTOP">
+<img src="/imagens/musicnonstop22.png" alt="MÚSIC NONSTOP">
 
 
 
