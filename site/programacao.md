@@ -58,9 +58,10 @@ permalink: /programacao/
 
   </div>
   <div class="sabado">
-  <img src="/imagens/.png" alt="">
-  <img src="/imagens/.png" alt="">
-  <img src="/imagens/.png" alt="">
+  <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/saracorreia.png" alt="Sara Correia">
+
+
   </div>
   <div class="domingo">
   <img src="/imagens/.png" alt="">
