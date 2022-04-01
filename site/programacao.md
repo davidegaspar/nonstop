@@ -26,12 +26,12 @@ permalink: /programacao/
   <img src="/imagens/atarde.png" alt="A TARDE">
   <img src="/imagens/a-noite.png" alt="A NOITE">
 
-
   </div>
   <div class="quarta">
-<img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
+
 <img src="/imagens/atarde.png" alt="A TARDE">
-<img src="/imagens/musicnonstop22.png" alt="MÚSIC NONSTOP">
+<img src="/imagens/rockmusic.png" alt="ROCK MUSIC">
+<img src="/imagens/a-noite.png" alt="A NOITE">
 
   </div>
   <div class="quinta">
