@@ -20,8 +20,8 @@ permalink: /programacao/
   <div class="segunda">
   <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarde.png" alt="A TARDE">
-  <img src="/imagens/dancemusic.png" alt="DANCE MÚSIC">
-  <img src="/imagens/musicnostop11.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/a-noite.png" alt="A NOITE">
+
 
   </div>
   <div class="terca">
@@ -30,21 +30,17 @@ permalink: /programacao/
   <img src="/imagens/mixradioshow.png" alt="MIX RADIO SHOW">
   <img src="/imagens/musicnostop11.png" alt="MÚSIC NONSTOP">
 
-
   </div>
   <div class="quarta">
 <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde.png" alt="A TARDE">
 <img src="/imagens/musicnonstop22.png" alt="MÚSIC NONSTOP">
 
-
-
   </div>
   <div class="quinta">
 <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde.png" alt="A TARDE">
 <img src="/imagens/musicnonstop22.png" alt="MÚSIC NONSTOP">
-
 
   </div>
   <div class="sexta">
@@ -53,14 +49,10 @@ permalink: /programacao/
   <img src="/imagens/groovemix.png" alt="GRROVE MIX">
   <img src="/imagens/musicnostop11.png" alt="MÚSIC NONSTOP">
 
-
-
-
   </div>
   <div class="sabado">
   <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
   <img src="/imagens/saracorreia.png" alt="Sara Correia">
-
 
   </div>
   <div class="domingo">
