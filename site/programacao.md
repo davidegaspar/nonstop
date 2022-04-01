@@ -18,17 +18,14 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarde.png" alt="A TARDE">
   <img src="/imagens/a-noite.png" alt="A NOITE">
 
-
   </div>
   <div class="terca">
-  <img src="/imagens/music-nonstop1.png" alt="MÚSIC NONSTOP">
   <img src="/imagens/atarde.png" alt="A TARDE">
-  <img src="/imagens/mixradioshow.png" alt="MIX RADIO SHOW">
-  <img src="/imagens/musicnostop11.png" alt="MÚSIC NONSTOP">
+  <img src="/imagens/a-noite.png" alt="A NOITE">
+
 
   </div>
   <div class="quarta">
