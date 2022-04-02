@@ -35,8 +35,8 @@ permalink: /programacao/
 
   </div>
   <div class="quinta">
-<img src="/imagens/atarde.png" alt="A TARDE">
-<img src="/imagens/a-noite.png" alt="A NOITE">
+<img src="/imagens/atarde1.png" alt="A TARDE">
+<img src="/imagens/noite11.png" alt="A NOITE">
 
   </div>
   <div class="sexta">
