@@ -18,20 +18,20 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/atarde.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
+  <img src="/imagens/atarde1.png" alt="A TARDE">
+  <img src="/imagens/noite11.png" alt="A NOITE">
 
   </div>
   <div class="terca">
-  <img src="/imagens/atarde.png" alt="A TARDE">
-  <img src="/imagens/a-noite.png" alt="A NOITE">
+  <img src="/imagens/atarde1.png" alt="A TARDE">
+  <img src="/imagens/noite11.png" alt="A NOITE">
 
   </div>
   <div class="quarta">
 
-<img src="/imagens/atarde.png" alt="A TARDE">
-<img src="/imagens/rockmusic.png" alt="ROCK MUSIC">
-<img src="/imagens/a-noite2.png" alt="A NOITE">
+<img src="/imagens/atarde1.png" alt="A TARDE">
+<img src="/imagens/rock.png" alt="ROCK MUSIC">
+<img src="/imagens/rock.png" alt="A NOITE">
 
   </div>
   <div class="quinta">
