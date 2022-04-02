@@ -31,7 +31,7 @@ permalink: /programacao/
 
 <img src="/imagens/atarde1.png" alt="A TARDE">
 <img src="/imagens/rock.png" alt="ROCK MUSIC">
-<img src="/imagens/rock.png" alt="A NOITE">
+<img src="/imagens/anoite22.png" alt="A NOITE">
 
   </div>
   <div class="quinta">
