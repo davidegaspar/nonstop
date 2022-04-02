@@ -31,13 +31,12 @@ permalink: /programacao/
 
 <img src="/imagens/atarde.png" alt="A TARDE">
 <img src="/imagens/rockmusic.png" alt="ROCK MUSIC">
-<img src="/imagens/a-noite.png" alt="A NOITE">
+<img src="/imagens/a-noite2.png" alt="A NOITE">
 
   </div>
   <div class="quinta">
-<img src="/imagens/music-nonstop1.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde.png" alt="A TARDE">
-<img src="/imagens/musicnonstop22.png" alt="MÚSIC NONSTOP">
+<img src="/imagens/a-noite.png" alt="A NOITE">
 
   </div>
   <div class="sexta">
