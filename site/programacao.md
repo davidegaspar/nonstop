@@ -58,7 +58,8 @@ permalink: /programacao/
 
   </div>
   <div class="domingo">
-  <img src="/imagens//musicnonstop33.png" alt="MUSIC NONSTOP">
+  <img src="/imagens/musicnonstop33.png" alt="MUSIC NONSTOP">
+  
   </div>
 </div>
 
