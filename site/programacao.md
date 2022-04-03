@@ -18,35 +18,45 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
+  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarde1.png" alt="A TARDE">
   <img src="/imagens/noite11.png" alt="A NOITE">
+  <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="terca">
+  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarde1.png" alt="A TARDE">
   <img src="/imagens/noite11.png" alt="A NOITE">
+  <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="quarta">
-
+<img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde1.png" alt="A TARDE">
 <img src="/imagens/rock.png" alt="ROCK MUSIC">
 <img src="/imagens/anoite22.png" alt="A NOITE">
+<img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="quinta">
+  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
 <img src="/imagens/atarde1.png" alt="A TARDE">
 <img src="/imagens/noite11.png" alt="A NOITE">
+<img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="sexta">
+  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
   <img src="/imagens/atarde1.png" alt="A TARDE">
   <img src="/imagens/noite11.png" alt="A NOITE">
+   <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
+
 
   </div>
   <div class="sabado">
-  <img src="/imagens/musicnonstop222.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/saracorreia.png" alt="Sara Correia">
+  <img src="/imagens/.png" alt="MUSIC NONSTOP">
+
 
   </div>
   <div class="domingo">
