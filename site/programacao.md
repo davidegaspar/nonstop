@@ -18,22 +18,22 @@ permalink: /programacao/
 
 <div class="prog">
   <div class="segunda">
-  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/2hsempausas.png" alt="2H SEM PAUSAS">
+  <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP"> 
+  <img src="/imagens/2h-sempausas.png" alt="2H SEM PAUSAS">
   <img src="/imagens/noite11.png" alt="A NOITE">
   <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="terca">
   <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/2hsempausas.png" alt="2H SEM PAUSAS">
+  <img src="/imagens/2h-sempausas.png" alt="2H SEM PAUSAS">
   <img src="/imagens/noite11.png" alt="A NOITE">
   <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="quarta">
 <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
-<img src="/imagens/2hsempausas.png" alt="2H SEM PAUSAS">
+<img src="/imagens/2h-sempausas.png" alt="2H SEM PAUSAS">
 <img src="/imagens/rock.png" alt="ROCK MUSIC">
 <img src="/imagens/anoite22.png" alt="A NOITE">
 <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
@@ -41,14 +41,14 @@ permalink: /programacao/
   </div>
   <div class="quinta">
   <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
-<img src="/imagens/2hsempausas.png" alt="A 2H SEM PAUSAS">
+<img src="/imagens/2h-sempausas.png" alt="A 2H SEM PAUSAS">
 <img src="/imagens/noite11.png" alt="A NOITE">
 <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
 
   </div>
   <div class="sexta">
   <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
-  <img src="/imagens/2hsempausas.png" alt="2H SEM PAUSAS">
+  <img src="/imagens/2h-sempausas.png" alt="2H SEM PAUSAS">
   <img src="/imagens/noite11.png" alt="A NOITE">
    <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
 
