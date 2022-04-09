@@ -34,7 +34,7 @@ permalink: /programacao/
   <div class="quarta">
 <img src="/imagens/musicnonstop111111.png" alt="MUSIC NONSTOP">
 <img src="/imagens/2h-sempausas.png" alt="2H SEM PAUSAS">
-<img src="/imagens/rock.png" alt="ROCK MUSIC">
+<img src="/imagens/magazinedasemana.png" alt="MAGAZINE DA SEMANA">
 <img src="/imagens/anoite22.png" alt="A NOITE">
 <img src="/imagens/musicnonstop2222.png" alt="MUSIC NONSTOP">
 
